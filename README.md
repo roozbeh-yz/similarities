@@ -17,7 +17,7 @@ Having redundant features may remove some computational burden from the clusteri
 **Deriving the graph Laplacian, and analyzing its eigen-gaps:**
 The procedure we follow for deriving the graph Laplacian and analyzing its eigen-gaps is standard and there are numerous books and references available on this topic. In the paper, we have cited a reference on this topic by von Luxburg.
 
-**Clustering method: **
+**Clustering method:** 
 In this paper and in our code, we have used spectral clustering. As we have explained in the paper, it may sometimes be beneficial to use other clustering algorithms. This is an open choice for all applications that involve clustering. We recommend following the best practices in choosing the clustering method.
 
 **Running time:**
